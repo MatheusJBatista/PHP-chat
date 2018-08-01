@@ -1,4 +1,6 @@
 <?php
+#IGNORE
+#IGNORE
 require_once 'classes/Model/sala.php';
 session_start();
 try {
