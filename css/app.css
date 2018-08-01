@@ -1,0 +1,9 @@
+.chat_message{
+	border: 1px solid #ccc;
+	min-height: 300px;
+	margin-bottom: 25px;
+}
+
+.container{
+	padding: 25px;
+}
